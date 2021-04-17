@@ -1,3 +1,5 @@
 $ cat .gitignore
 
 config.py
+/.idea
+/__pycache__
